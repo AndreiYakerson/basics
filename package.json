@@ -1,0 +1,12 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "First basic node",
+  "main": "01-basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Yakerson",
+  "license": "ISC",
+  "type": "module"
+}
