@@ -8,5 +8,8 @@
   },
   "author": "Andrei Yakerson",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "pdfkit-table": "^0.1.99"
+  }
 }
